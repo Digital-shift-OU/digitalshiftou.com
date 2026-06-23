@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Digital Shift OU logo</title>
+  <rect width="64" height="64" rx="14" fill="#171717"/>
+  <path fill="#ffffff" d="M17 18h14c8.3 0 14 5.4 14 14s-5.7 14-14 14H17V18Zm8 7.2v13.6h5.7c4.2 0 6.7-2.5 6.7-6.8s-2.5-6.8-6.7-6.8H25Z"/>
+  <path fill="#5ee0a0" d="M39 15h8v8h-8z"/>
+  <path fill="#69a7ff" d="M47 23h8v8h-8z"/>
+  <path fill="#ffb15d" d="M39 31h8v8h-8z"/>
+</svg>
