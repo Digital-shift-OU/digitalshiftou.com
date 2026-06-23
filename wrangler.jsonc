@@ -1,0 +1,18 @@
+{
+  "name": "digitalshiftou-com",
+  "compatibility_date": "2026-06-23",
+  "assets": {
+    "directory": "./dist"
+  },
+  "workers_dev": false,
+  "routes": [
+    {
+      "pattern": "digitalshiftou.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.digitalshiftou.com",
+      "custom_domain": true
+    }
+  ]
+}
