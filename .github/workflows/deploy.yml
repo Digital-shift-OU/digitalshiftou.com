@@ -35,4 +35,4 @@ jobs:
         run: bun run deploy:cloudflare:prod
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_ACCOUNT_ID: 9ee3d7479a3c359681e3fab2c8cb22c0
